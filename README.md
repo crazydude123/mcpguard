@@ -62,7 +62,7 @@ The free open-source ruleset above. **mcpguard pro** adds:
 - Pre-baked reports for HackerOne / GitHub Security Advisory submission
 - Office-hour Slack for triage questions
 
-→ https://polar.sh/<your-account>/mcpguard-pro (set up your own; this is a placeholder)
+→ https://polar.sh/crazydude123/mcpguard-pro *(coming soon)*
 
 ## Disclosed cases I've personally filed (May 2026)
 
@@ -80,4 +80,4 @@ mcpguard's ruleset is the materialised version of that audit work.
 
 ## Author
 
-[your-name] — security researcher specialising in MCP-server audits. Available for paid audits of proprietary MCP integrations.
+[@crazydude123](https://github.com/crazydude123) — security researcher specialising in MCP-server audits. Available for paid audits of proprietary MCP integrations.
