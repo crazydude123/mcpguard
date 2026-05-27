@@ -62,7 +62,11 @@ The free open-source ruleset above. **mcpguard pro** adds:
 - Pre-baked reports for HackerOne / GitHub Security Advisory submission
 - Office-hour Slack for triage questions
 
-→ https://polar.sh/crazydude123/mcpguard-pro *(coming soon)*
+→ **Deep-dive playbook (PDF, $29)**: https://tycoonmaster4.gumroad.com/l/mcp-playbook
+
+Covers all seven classes with code patterns, real-world examples from the 16 audited codebases, detection methods, correct fixes, bug-report templates, audit checklist, and CVSS framing. Lifetime updates.
+
+→ **mcpguard pro subscription** *(coming soon, polar.sh)* — daily-updated ruleset, GitHub Action with PR comments, pre-baked H1/GHSA report templates
 
 ## Disclosed cases I've personally filed (May 2026)
 
